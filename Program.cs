@@ -4,13 +4,13 @@ int[] idades = { 30, 40, 17, 21, 18 };
 int acumulador = 0;
 
 // Array de int
-TestaArrayInt();
+// TestaArrayInt();
 
 int media = acumulador / idades.Length;
 Console.WriteLine($"Média de idades = {media}");
 
 // Array de string
-TestaBuscarPalavra();
+// TestaBuscarPalavra();
 
 // Arrays
 Array amostra = Array.CreateInstance(typeof(double), 5);
@@ -20,7 +20,7 @@ amostra.SetValue(7.1, 2);
 amostra.SetValue(10, 3);
 amostra.SetValue(6.9, 4);
 
-TestaMediana(amostra);
+// TestaMediana(amostra);
 
 // Métodos
 void TestaArrayInt()
