@@ -7,3 +7,8 @@
 - As sintaxes básicas de definição e inicialização de um array usando C#, entendendo as formas mais utilizadas e simples, que podem conferir dinamismo ao se trabalhar com arrays;
 - A percorrer um array a fim de manipulá-lo para inserção de valores em seus índices e também para recuperar uma informação armazenada em determinada posição do array;
 - Sobre a classe Array, que é a superclasse da qual todos os arrays de C# herdam seus atributos e propriedades.
+
+### Array de contas correntes
+- A utilizar a encapsular a manipulação de um array de objetos em um classe a fim de facilitar a manutenção de uma estrutura de objetos;
+- Como utilizar um indexador, que permite que uma classe desenvolvida por você possa ser indexada como um array;
+- A utilizar a collection ArrayList, uma classe que permite trabalhar com coleções de objetos e já implementa uma série de métodos para manipulação de um array de objetos.
