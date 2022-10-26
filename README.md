@@ -12,3 +12,9 @@
 - A utilizar a encapsular a manipulação de um array de objetos em um classe a fim de facilitar a manutenção de uma estrutura de objetos;
 - Como utilizar um indexador, que permite que uma classe desenvolvida por você possa ser indexada como um array;
 - A utilizar a collection ArrayList, uma classe que permite trabalhar com coleções de objetos e já implementa uma série de métodos para manipulação de um array de objetos.
+
+### ListT
+
+- A utilizar uma lista genérica de objetos utilizando a classe List, que permite a tipagem de uma lista de objetos e que permite a redução da probabilidade de erros de conversão para a manipulação da lista;
+- Sobre métodos disponíveis pela classe List que dinamiza a manipulação de lista de objetos;
+- A criar uma classe para tratar as excessões da aplicação e que se faz necessária uma vez que a aplicação em desenvolivmento tem uma interface de interação com o usuário;
