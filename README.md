@@ -18,3 +18,10 @@
 - A utilizar uma lista genérica de objetos utilizando a classe List, que permite a tipagem de uma lista de objetos e que permite a redução da probabilidade de erros de conversão para a manipulação da lista;
 - Sobre métodos disponíveis pela classe List que dinamiza a manipulação de lista de objetos;
 - A criar uma classe para tratar as excessões da aplicação e que se faz necessária uma vez que a aplicação em desenvolivmento tem uma interface de interação com o usuário;
+
+### Manipulando a lista
+
+- Sobre a interface IComparable, que deve ser implementada pelo tipo de classe que irá tipificar uma lista genérica para usarmos o método Sort;
+- Como utilizar o método Remove da classe lista para remoção de um elemento do array de objetos;
+- Como implementar a interface da forma tipada IComparable e o método CompareTo para fazer a ordenação da lista de contas correntes;
+- A criar um algoritmo de busca simples para encontrar um objeto no array de contas correntes;
