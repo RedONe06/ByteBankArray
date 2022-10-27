@@ -25,3 +25,10 @@
 - Como utilizar o método Remove da classe lista para remoção de um elemento do array de objetos;
 - Como implementar a interface da forma tipada IComparable e o método CompareTo para fazer a ordenação da lista de contas correntes;
 - A criar um algoritmo de busca simples para encontrar um objeto no array de contas correntes;
+
+### LINQ
+
+- A utilizar o método de extensão Where aplicado diretamente a lista de objetos, que permite a simplificação da busca de um elemento na lista;
+- Sobre a configuração no arquivo .Csproj que configura o projeto ´para alertar sobre operações que podem retornar um valor nulo para um objeto;
+- A usar a sintaxe de consulta do LINQ que torna o código bem legível e de fácil entendimento;
+- Como utilizar a estrutura Guid do C# para gerar uma sequência alfanumérica de forma aleatória no sistema;

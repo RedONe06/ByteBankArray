@@ -96,10 +96,10 @@
 			return true;
 		}
 
-		public ContaCorrente(int numero_agencia, string conta)
+		public ContaCorrente(int numero_agencia)
 		{
 			Numero_agencia = numero_agencia;
-			Conta = conta;
+			Conta = Guid.NewGuid().ToString().Substring(0,8);
             Titular = new Cliente();
             TotalDeContasCriadas += 1;
 
